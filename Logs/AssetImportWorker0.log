@@ -1,0 +1,76 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mohamedsadiqfiware.org/Documents/Study/computer graphic/3D Unity/Argon Assualt
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52352
+Successfully changed project path to: /Users/mohamedsadiqfiware.org/Documents/Study/computer graphic/3D Unity/Argon Assualt
+/Users/mohamedsadiqfiware.org/Documents/Study/computer graphic/3D Unity/Argon Assualt
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 75.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mohamedsadiqfiware.org/Documents/Study/computer graphic/3D Unity/Argon Assualt/Assets
+GfxDevice: creating device client; threaded=0
+2021-08-10 12:43:42.986 Unity[1173:7178431] Color LCD preferred device: Intel(R) Iris(TM) Graphics 550 (low power)
+2021-08-10 12:43:42.986 Unity[1173:7178431] Metal devices available: 1
+2021-08-10 12:43:42.986 Unity[1173:7178431] 0: Intel(R) Iris(TM) Graphics 550 (low power)
+2021-08-10 12:43:42.986 Unity[1173:7178431] Using device Intel(R) Iris(TM) Graphics 550 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 550
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56173
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.004954 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 166.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.662 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 310.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.376 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1872 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 292.0 MB.
+System memory in use after: 291.4 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2345.
+Total: 7.302002 ms (FindLiveObjects: 0.612533 ms CreateObjectMapping: 0.173509 ms MarkObjects: 4.540555 ms  DeleteObjects: 1.973526 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GlobalPP.asset
+  artifactKey: Guid(07c1a704bdf28497fa20f90e92a53963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GlobalPP.asset using Guid(07c1a704bdf28497fa20f90e92a53963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '814ba5950ee19f76e226d4b7f304154b') in 9.576448 seconds
+  Import took 9.585183 seconds .
+
